@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Youhana</h1>
 <h3 align="center">A passionate DataScience&DataAnalysis&DataEngineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geo-y20&label=Profile%20views&color=0e75b6&style=flat" alt="geo-y20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geo-y20" alt="geo-y20" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/georgeyouhana2" target="blank"><img src="https://img.shields.io/twitter/follow/georgeyouhana2?logo=twitter&style=for-the-badge" alt="georgeyouhana2" /></a> </p>
-
 - 🔭 I’m currently working on **Text Summarization in Arabic**
 
 - 🌱 I’m currently learning **DataEngineering**
