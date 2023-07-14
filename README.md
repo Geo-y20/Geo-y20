@@ -13,8 +13,6 @@
 <a href="https://fb.com/georgeyouhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george youhana" height="30" width="40" /></a>
 <a href="https://instagram.com/george_youhana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_youhana_" height="30" width="40" /></a>
 </p>
-[![Spotify](https://img.shields.io/badge/Spotify-Your%20Profile-green?style=flat-square&logo=spotify&logoColor=white&color=1ED760)](https://open.spotify.com/user/n8a1p1b56kd8cutpjrr0p429h?si=40ab2c95b5ce4692)
-
 
 
 
