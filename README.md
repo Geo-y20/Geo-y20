@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Youhana</h1>
 <h3 align="center">A passionate DataScience&DataAnalysis&DataEngineering</h3>
 
-- 🔭 I’m currently working on **Text Summarization in Arabic**
+- 🔭 I’m currently working on **Cotton Fiber Classfication **
 
 - 🌱 I’m currently learning **DataEngineering**
 
