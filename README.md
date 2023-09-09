@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm George Youhana</h1>
 <h3 align="center">A passionate DataScience&DataAnalysis&DataEngineering</h3>
 
-- 🔭 I’m currently working on **Cotton Fiber Classfication **
+- 🔭 I’m currently working on **Tele Custommer Churn **
 
-- 🌱 I’m currently learning **DataEngineering**
+- 🌱 I’m currently learning **DataEngineerin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
