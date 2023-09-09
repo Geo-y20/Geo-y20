@@ -10,7 +10,7 @@
 <a href="https://twitter.com/georgeyouhana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="georgeyouhana2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/george-youhana-a5b756155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george youhana" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/georgeyouhanaheazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="george youhana" height="30" width="40" /></a>
-<a href="https://fb.com/georgeyouhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george youhana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/goerg.youhana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george youhana" height="30" width="40" /></a>
 <a href="https://instagram.com/george_youhana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_youhana_" height="30" width="40" /></a>
 </p>
 
