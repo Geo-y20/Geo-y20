@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Youhana</h1>
-<h3 align="center">A passionate Data Scientist | Data Analyst | Data Engineer</h3>
-
-- 🔭 I’m currently working on **Telco Customer Churn Prediction**
-
-- 🌱 I’m currently learning **Data Engineering**
+<h3 align="center">A passionate Data Scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
