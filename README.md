@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=George+Youhana..&hearts;+,;AI+Student,;Data+Science,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-	
+ 	
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About me
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 - Passionate Data Science 
 - Currently learning Data Engineer by Self 
 - Motivated Artificial Intelligence student
@@ -16,12 +16,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
+
 <p align="center">
 
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
@@ -82,9 +82,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geo-y20&show_icons=true&locale=en&layout=compact&theme=dark" alt="geo-y20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geo-y20&show_icons=true&locale=en&theme=dark" alt="geo-y20" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geo-y20&theme=dark" alt="geo-y20" /></p>
 
 ## 🐍 A Snake Eating My Contributions Graph
@@ -97,5 +94,4 @@
 	</picture>
 </p>
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=You7ana&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
