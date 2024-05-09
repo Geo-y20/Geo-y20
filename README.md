@@ -12,7 +12,7 @@
 - Currently learning Data Engineer by Self 
 - Motivated Artificial Intelligence student
 - 🤓 Always learning new things
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1n4a_XhbgW69cRc9Ec8k3e_1SpTGpYBwH/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1kqraRQhy8acRrQkOSMDOdKh4z5YKb9Tx/view?usp=sharing)
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
