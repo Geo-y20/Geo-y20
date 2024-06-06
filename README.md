@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=George+Youhana..&hearts;+,;AI+Student;Data+Science,;Active+Learner/Researcher,;Loves+to+learn+new+stuff..<3">
   </a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Geo-y20&color=blue" alt="Geo-y20" />
  
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
