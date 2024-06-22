@@ -8,12 +8,16 @@
 <img src="https://komarev.com/ghpvc/?username=Geo-y20&color=blue" alt="Geo-y20" />
  
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="7.5%"> About me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 - Passionate about Data Science 
 - Currently learning Data Engineering by self-study 
 - Motivated Artificial Intelligence student
 - 🤓 Always learning new things
 - I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1kqraRQhy8acRrQkOSMDOdKh4z5YKb9Tx/view?usp=sharing)
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
