@@ -114,16 +114,16 @@
 
 <p align="left">
   <a href="https://github.com/Geo-y20/Enhanced-Learning-Experience" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project1&theme=dark" alt="Project 1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Enhanced-Learning-Experience&theme=dark" alt="Enhanced Learning Experience" />
   </a>
   <a href="https://github.com/Geo-y20/Vision-Project" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project2&theme=dark" alt="Project 2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Vision-Project&theme=dark" alt="Vision Project" />
   </a>
   <a href="https://github.com/Geo-y20/Text-Summarization-in-Arabic" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project3&theme=dark" alt="Project 3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Text-Summarization-in-Arabic&theme=dark" alt="Text Summarization in Arabic" />
   </a>
   <a href="https://github.com/Geo-y20/Arabic_Sign_language" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project4&theme=dark" alt="Project 4" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Arabic_Sign_language&theme=dark" alt="Arabic Sign Language" />
   </a>
 </p>
 
