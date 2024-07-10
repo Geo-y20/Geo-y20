@@ -109,3 +109,32 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geo-y20&show_icons=true&locale=en&layout=compact&theme=dark" alt="geo-y20" />
 </p>
+
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"><b> Most Significant Projects</b>
+
+<p align="left">
+  <a href="https://github.com/Geo-y20/Enhanced-Learning-Experience" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project1&theme=dark" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Geo-y20/Vision-Project" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project2&theme=dark" alt="Project 2" />
+  </a>
+  <a href="https://github.com/Geo-y20/Text-Summarization-in-Arabic" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project3&theme=dark" alt="Project 3" />
+  </a>
+  <a href="https://github.com/Geo-y20/Arabic_Sign_language" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Project4&theme=dark" alt="Project 4" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Geo-y20?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-More%20Projects-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Geo-y20">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+watching!">
+  </a>
+</p>
