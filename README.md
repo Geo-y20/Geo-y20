@@ -91,20 +91,12 @@ george = {
 
 ## 🚀 Highlighted Projects
 
-<p align="left">
-  <a href="https://github.com/Geo-y20/Enhanced-Learning-Experience">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Enhanced-Learning-Experience&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Geo-y20/Vision-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Vision-Project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Geo-y20/Text-Summarization-in-Arabic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Text-Summarization-in-Arabic&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Geo-y20/Arabic_Sign_language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geo-y20&repo=Arabic_Sign_language&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [🎓 Enhanced Learning Experience](https://github.com/Geo-y20/Enhanced-Learning-Experience) | AI-powered adaptive learning platform | Python, ML |
+| [👁️ Vision Project](https://github.com/Geo-y20/Vision-Project) | Computer vision detection system | OpenCV, YOLO |
+| [📝 Arabic Text Summarization](https://github.com/Geo-y20/Text-Summarization-in-Arabic) | NLP summarization for Arabic text | Python, NLP |
+| [🤟 Arabic Sign Language](https://github.com/Geo-y20/Arabic_Sign_language) | Real-time Arabic sign language recognition | CV, TensorFlow |
 
 <p align="center">
   <a href="https://github.com/Geo-y20?tab=repositories">
@@ -117,18 +109,16 @@ george = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Geo-y20&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Geo-y20&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geo-y20&custom_title=George's%20Contribution%20Graph&hide_border=true&theme=tokyo-night" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geo-y20&custom_title=George's%20Contribution%20Graph&hide_border=true&theme=tokyo-night" />
 </p>
 
 ---
