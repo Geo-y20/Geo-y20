@@ -109,9 +109,14 @@ george = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geo-y20&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-y20&theme=tokyonight" width="49%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-y20&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-y20&theme=tokyonight&utcOffset=3" width="49%" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Geo-y20&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
