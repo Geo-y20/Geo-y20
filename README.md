@@ -18,7 +18,7 @@
 - **Currently learning Data Engineering by self-study**
 - **Motivated Artificial Intelligence student**
 - **🤓 Always learning new things**
-- **I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1kqraRQhy8acRrQkOSMDOdKh4z5YKb9Tx/view?usp=sharing)**
+- **I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1hbmWxxOp7TUfGuKGt1RUKUaKHNJq-kIk/view?usp=sharing)**
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 
