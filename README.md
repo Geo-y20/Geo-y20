@@ -1,35 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D9FF&height=220&section=header&text=George%20Youhana%20Heazil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20LLM%20Systems%20%C2%B7%20RAG%20%C2%B7%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=GEORGE%20YOUHANA%20HEAZIL&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20Agents&descAlignY=52&descSize=19"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+LLM+%26+RAG+Systems;Text-to-SQL+%7C+Agents+%7C+Computer+Vision;Serving+900%2B+Employees+in+Production;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+Architecting+Enterprise+LLM+%26+RAG+Systems;%E2%9A%A1+Text-to-SQL+%7C+Agentic+Pipelines+%7C+Vision+AI;%F0%9F%9A%80+Serving+900%2B+Employees+in+Production;%F0%9F%92%A1+Turning+Ideas+Into+Shipped+AI+Products" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Geo-y20&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/george-youhana-a5b756155/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://my-portfolio-nine-chi-v2lvpxtgph.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-FF2E63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:georgeyouhana2@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Geo-y20&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-<a href="https://www.linkedin.com/in/george-youhana-a5b756155/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://my-portfolio-nine-chi-v2lvpxtgph.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:georgeyouhana2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="./assets/ai_banner.svg" width="100%">
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+## ⚡ About Me
 
 ```yaml
-name:      George Youhana Heazil
-role:      Applied AI Engineer @ Akhnaton Trading & Distribution — EVA Group
-location:  Cairo, Egypt
-focus:     [LLM Systems, RAG, AI Agents, Computer Vision, MLOps]
-education: B.Sc. Artificial Intelligence — Arab Academy (AASTMT), 2025
-mission:   Shipping production-grade AI systems that solve real business problems
-open_to:   Exciting AI/ML opportunities 🚀
+👤 name:      George Youhana Heazil
+💼 role:      Applied AI Engineer @ Akhnaton Trading & Distribution — EVA Group
+📍 location:  Cairo, Egypt
+🔭 focus:     [LLM Systems, RAG, AI Agents, Computer Vision, MLOps]
+🎓 education: B.Sc. Artificial Intelligence — Arab Academy (AASTMT), 2025
+🚀 mission:   Shipping production-grade AI systems with measurable impact
+🌱 open_to:   Exciting AI/ML opportunities
 ```
 
-<br/>
+<br clear="right"/>
 
-## 🎵 Now Playing
+---
+
+## 🎧 Now Playing
 
 <div align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
@@ -37,43 +43,44 @@ open_to:   Exciting AI/ML opportunities 🚀
 </a>
 </div>
 
+---
+
+## 💥 What I've Shipped in Production
+
+<div align="center"><sub><b>AI Engineer @ EVA Group</b> · May 2025 – Present</sub></div>
 <br/>
-
-## 💼 What I've Shipped in Production
-
-**AI Engineer @ EVA Group** &nbsp;·&nbsp; *May 2025 – Present*
 
 <table width="100%">
-<tr><td width="45%"><b>🗣️ ATR GPT — Enterprise AI Assistant</b></td><td>FastAPI + PostgreSQL/pgvector RAG assistant serving <b>900+ employees</b> across 20+ knowledge sources, with multi-provider LLM routing (OCI, Claude, OpenAI) and agentic doc generation</td></tr>
-<tr><td><b>🔍 Enterprise Text-to-SQL</b></td><td>Natural language → Oracle Autonomous DB across <b>10+ tables</b>, ~10s latency</td></tr>
-<tr><td><b>📊 Sheet Chat — Agentic Analytics</b></td><td>LangGraph pipeline routing spreadsheet questions across DuckDB, visualization, semantic search & data-quality checks</td></tr>
-<tr><td><b>🌐 Offline Bilingual HR Assistant</b></td><td>Fully on-prem Arabic-English assistant using Aya-Expanse 8B + hybrid ChromaDB/BM25 retrieval</td></tr>
-<tr><td><b>📄 Regulatory Content & OCR Platform</b></td><td>Structured extraction from PDF/DOCX/XLSX/PPTX; cheque automation & bilingual label OCR via Google Vision</td></tr>
-<tr><td><b>👁️ Vision Intelligence Platform</b></td><td>Fire/violence detection, ALPR, driver-ID scanning, and attendance across CPU/GPU environments</td></tr>
-<tr><td><b>📈 Forecasting & Decision Intelligence</b></td><td>Per-SKU Ridge/LightGBM models selected by wMAPE, with ETS/Croston fallback for intermittent demand</td></tr>
-<tr><td><b>📊 Supply Chain BI & Social Listening</b></td><td>Power BI dashboards + Arabic sentiment analysis pipelines across Facebook</td></tr>
+<tr><td width="4%">🗣️</td><td width="30%"><b>ATR GPT</b><br/><sub>Enterprise AI Assistant</sub></td><td>FastAPI + PostgreSQL/pgvector RAG system serving <b>900+ employees</b> across 20+ knowledge sources, with multi-provider LLM routing (OCI · Claude · OpenAI) & agentic document generation</td></tr>
+<tr><td>🔍</td><td><b>Text-to-SQL Engine</b></td><td>Natural language → Oracle Autonomous DB across <b>10+ tables</b>, ~10s latency</td></tr>
+<tr><td>📊</td><td><b>Sheet Chat</b><br/><sub>Agentic Analytics</sub></td><td>LangGraph pipeline routing spreadsheet questions across DuckDB, visualization, semantic search & data-quality checks</td></tr>
+<tr><td>🌐</td><td><b>Offline HR Assistant</b></td><td>Fully on-prem Arabic-English assistant using Aya-Expanse 8B + hybrid ChromaDB/BM25 retrieval</td></tr>
+<tr><td>📄</td><td><b>Doc Intelligence</b></td><td>Structured extraction from PDF/DOCX/XLSX/PPTX; cheque automation & bilingual label OCR via Google Vision</td></tr>
+<tr><td>👁️</td><td><b>Vision Platform</b></td><td>Fire/violence detection, ALPR, driver-ID scanning & attendance across CPU/GPU environments</td></tr>
+<tr><td>📈</td><td><b>Forecasting Engine</b></td><td>Per-SKU Ridge/LightGBM models selected by wMAPE, with ETS/Croston fallback for intermittent demand</td></tr>
+<tr><td>📊</td><td><b>BI & Social Listening</b></td><td>Power BI dashboards + Arabic sentiment analysis pipelines across Facebook</td></tr>
 </table>
 
-<br/>
+---
 
 ## 🛤️ Career Timeline
 
 ```
-2025 – Present   AI Engineer                          Akhnaton Trading & Distribution (EVA Group)
-2024 (Apr–Jul)   ML Engineer (Contract)                GuruHub
-2024 (Oct–Feb25) Data Science Freelance Coach           Digital Egypt Pioneers | Elharefa
-2024 (Nov–Jan25) Course Instructor                      iSchool
-2023 (Jul–Aug)   AI Developer Intern                     Elegant Textile Engineering
-2021 – 2025      B.Sc. Artificial Intelligence           Arab Academy (AASTMT)
+2025 ── Present    🚀 AI Engineer                  Akhnaton Trading & Distribution (EVA Group)
+2024 (Apr–Jul)     ⚙️  ML Engineer (Contract)       GuruHub
+2024–25 (Oct–Feb)  🎯 Freelance DS Coach            Digital Egypt Pioneers | Elharefa
+2024–25 (Nov–Jan)  📚 Course Instructor             iSchool
+2023 (Jul–Aug)     🌱 AI Developer Intern           Elegant Textile Engineering
+2021 ── 2025       🎓 B.Sc. Artificial Intelligence  Arab Academy (AASTMT)
 ```
 
-<br/>
+---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**🤖 AI & ML**
+**🤖 AI & Machine Learning**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -83,7 +90,7 @@ open_to:   Exciting AI/ML opportunities 🚀
 <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 
-**🧠 LLMs & GenAI**
+**🧠 LLMs & Generative AI**
 <br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -91,7 +98,7 @@ open_to:   Exciting AI/ML opportunities 🚀
 <img src="https://img.shields.io/badge/RAG%20Pipelines-00D9FF?style=for-the-badge&logo=buffer&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 
-**🛠️ Backend & Infra**
+**🛠️ Backend & Infrastructure**
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
@@ -111,40 +118,40 @@ open_to:   Exciting AI/ML opportunities 🚀
 
 </div>
 
-<br/>
+---
 
 ## 🚀 Highlighted Projects
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🎓 AI-Powered Learning Automation Platform](https://github.com/Geo-y20/Enhanced-Learning-Experience)**
-<br/>FastAPI platform for automated transcription (Whisper), PDF extraction, and summarization — processed 5,000+ multimedia files.
+### [🎓 AI-Powered Learning Automation](https://github.com/Geo-y20/Enhanced-Learning-Experience)
+FastAPI platform for automated transcription (Whisper), PDF extraction & summarization — processed **5,000+** multimedia files.
 <br/><sub>`Python` `Whisper` `NLP` `FastAPI`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[👁️ Vision Project](https://github.com/Geo-y20/Vision-Project)**
-<br/>Real-time computer vision detection system.
+### [👁️ Vision Project](https://github.com/Geo-y20/Vision-Project)
+Real-time computer vision detection system for object & event recognition.
 <br/><sub>`OpenCV` `YOLO`</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[📝 Arabic Text Summarization](https://github.com/Geo-y20/Text-Summarization-in-Arabic)**
-<br/>NLP summarization pipeline built for Arabic text.
+### [📝 Arabic Text Summarization](https://github.com/Geo-y20/Text-Summarization-in-Arabic)
+NLP summarization pipeline built specifically for Arabic text.
 <br/><sub>`Python` `NLP`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🤟 Arabic Sign Language Recognition](https://github.com/Geo-y20/Arabic_Sign_language)**
-<br/>Real-time Arabic sign language recognition.
-<br/><sub>`CV` `TensorFlow`</sub>
+### [🤟 Arabic Sign Language Recognition](https://github.com/Geo-y20/Arabic_Sign_language)
+Real-time recognition system for Arabic sign language.
+<br/><sub>`Computer Vision` `TensorFlow`</sub>
 
 </td>
 </tr>
@@ -152,24 +159,22 @@ open_to:   Exciting AI/ML opportunities 🚀
 
 <div align="center">
 <a href="https://github.com/Geo-y20?tab=repositories">
-  <img src="https://img.shields.io/badge/→%20View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/→%20VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%"/>
 
-<img src="https://streak-stats.demolab.com?user=Geo-y20&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geo-y20&custom_title=George's%20Contribution%20Graph&hide_border=true&theme=tokyo-night" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geo-y20&custom_title=George's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=0d1117" width="90%"/>
 </div>
 
-<br/>
+---
 
 ## 🌐 Let's Connect
 
@@ -179,11 +184,12 @@ open_to:   Exciting AI/ML opportunities 🚀
 <a href="https://www.kaggle.com/georgeyouhanaheazil"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://www.facebook.com/goerg.youhana/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/george_youhana_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://my-portfolio-nine-chi-v2lvpxtgph.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://my-portfolio-nine-chi-v2lvpxtgph.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together!" />
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer"/>
 </div>
