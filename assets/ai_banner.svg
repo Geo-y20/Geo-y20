@@ -1,0 +1,72 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="50%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#0a1a2a"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#00a8ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <g opacity="0.5" stroke="#00d9ff" stroke-width="1">
+    <line x1="80" y1="60" x2="220" y2="120"/>
+    <line x1="220" y1="120" x2="180" y2="220"/>
+    <line x1="80" y1="60" x2="180" y2="220"/>
+    <line x1="220" y1="120" x2="340" y2="90"/>
+    <line x1="340" y1="90" x2="380" y2="200"/>
+    <line x1="180" y1="220" x2="380" y2="200"/>
+    <line x1="1000" y1="70" x2="1120" y2="130"/>
+    <line x1="1120" y1="130" x2="1080" y2="230"/>
+    <line x1="1000" y1="70" x2="900" y2="150"/>
+    <line x1="900" y1="150" x2="1080" y2="230"/>
+    <line x1="900" y1="150" x2="960" y2="60"/>
+  </g>
+
+  <g fill="#00f0ff">
+    <circle cx="80" cy="60" r="4"/>
+    <circle cx="220" cy="120" r="5"/>
+    <circle cx="180" cy="220" r="4"/>
+    <circle cx="340" cy="90" r="4"/>
+    <circle cx="380" cy="200" r="5"/>
+    <circle cx="1000" cy="70" r="4"/>
+    <circle cx="1120" cy="130" r="5"/>
+    <circle cx="1080" cy="230" r="4"/>
+    <circle cx="900" cy="150" r="4"/>
+    <circle cx="960" cy="60" r="4"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="600" cy="150" r="70" fill="none" stroke="url(#cyan)" stroke-width="2"/>
+    <circle cx="600" cy="150" r="50" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.6"/>
+    <circle cx="600" cy="110" r="6" fill="#00f0ff"/>
+    <circle cx="565" cy="150" r="6" fill="#00f0ff"/>
+    <circle cx="635" cy="150" r="6" fill="#00f0ff"/>
+    <circle cx="600" cy="190" r="6" fill="#00f0ff"/>
+    <circle cx="570" cy="185" r="4" fill="#00d9ff"/>
+    <circle cx="630" cy="185" r="4" fill="#00d9ff"/>
+    <line x1="600" y1="110" x2="565" y2="150" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="600" y1="110" x2="635" y2="150" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="565" y1="150" x2="600" y2="190" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="635" y1="150" x2="600" y2="190" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="565" y1="150" x2="635" y2="150" stroke="#00d9ff" stroke-width="1"/>
+    <line x1="570" y1="185" x2="630" y2="185" stroke="#00d9ff" stroke-width="1"/>
+  </g>
+
+  <text x="600" y="270" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" font-weight="600" fill="#00f0ff" letter-spacing="2">ARTIFICIAL INTELLIGENCE ENGINEER</text>
+</svg>
