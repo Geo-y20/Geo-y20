@@ -41,11 +41,11 @@
 
 ## 🎧 Now Playing
 
-<div align="center">
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</a>
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n8a1p1b56kd8cutpjrr0p429h&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
+</p>
 
 ---
 
