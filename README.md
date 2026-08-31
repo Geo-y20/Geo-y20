@@ -31,6 +31,10 @@
 🌱 open_to:   Exciting AI/ML opportunities
 ```
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql,mongodb,git,github,githubactions,linux,tensorflow,pytorch,opencv,azure,vscode&theme=dark&perline=8"/>
+</div>
+
 <br clear="right"/>
 
 ---
@@ -51,28 +55,36 @@
 <br/>
 
 <table width="100%">
-<tr><td width="4%">🗣️</td><td width="30%"><b>ATR GPT</b><br/><sub>Enterprise AI Assistant</sub></td><td>FastAPI + PostgreSQL/pgvector RAG system serving <b>900+ employees</b> across 20+ knowledge sources, with multi-provider LLM routing (OCI · Claude · OpenAI) & agentic document generation</td></tr>
-<tr><td>🔍</td><td><b>Text-to-SQL Engine</b></td><td>Natural language → Oracle Autonomous DB across <b>10+ tables</b>, ~10s latency</td></tr>
-<tr><td>📊</td><td><b>Sheet Chat</b><br/><sub>Agentic Analytics</sub></td><td>LangGraph pipeline routing spreadsheet questions across DuckDB, visualization, semantic search & data-quality checks</td></tr>
-<tr><td>🌐</td><td><b>Offline HR Assistant</b></td><td>Fully on-prem Arabic-English assistant using Aya-Expanse 8B + hybrid ChromaDB/BM25 retrieval</td></tr>
-<tr><td>📄</td><td><b>Doc Intelligence</b></td><td>Structured extraction from PDF/DOCX/XLSX/PPTX; cheque automation & bilingual label OCR via Google Vision</td></tr>
-<tr><td>👁️</td><td><b>Vision Platform</b></td><td>Fire/violence detection, ALPR, driver-ID scanning & attendance across CPU/GPU environments</td></tr>
-<tr><td>📈</td><td><b>Forecasting Engine</b></td><td>Per-SKU Ridge/LightGBM models selected by wMAPE, with ETS/Croston fallback for intermittent demand</td></tr>
-<tr><td>📊</td><td><b>BI & Social Listening</b></td><td>Power BI dashboards + Arabic sentiment analysis pipelines across Facebook</td></tr>
+<tr><td width="4%">🗣️</td><td width="26%"><b>ATR GPT</b><br/><sub>Enterprise AI Assistant</sub></td><td>FastAPI + PostgreSQL/pgvector RAG system serving <b>900+ employees</b> across 20+ departments; assistant mode routes across OpenAI &amp; Claude, generates PPT/Word via AI agents, with guardrails &amp; token/cost monitoring</td></tr>
+<tr><td>🔍</td><td><b>Enterprise Data Querying</b><br/><sub>Text-to-SQL + Sheet Chat</sub></td><td>Natural language → Oracle Autonomous DB across <b>10+ tables</b> (~10s latency), plus a LangGraph agentic pipeline for spreadsheet Q&amp;A, visualization &amp; data-quality checks</td></tr>
+<tr><td>📄</td><td><b>OCR &amp; Doc Intelligence</b></td><td>Automated cheque validation before ERP ingestion &amp; bilingual product-label extraction via Google Cloud Vision</td></tr>
+<tr><td>📈</td><td><b>Demand Forecasting</b></td><td>Per-brand / per-customer / per-channel forecasts using Ridge &amp; LightGBM, with per-SKU model selection by wMAPE</td></tr>
+<tr><td>☎️</td><td><b>Call Quality Analytics</b></td><td>CRM call recordings → Whisper transcription → OpenAI sentiment analysis, evaluating customer &amp; pharmacist interactions for QA</td></tr>
+<tr><td>🛒</td><td><b>Smart Sales Assistant</b></td><td>Chatbot ordering assistant with full EVA pharma/cosmetics product knowledge &amp; AI-generated recommendations</td></tr>
+<tr><td>📋</td><td><b>Regulatory Content Platform</b></td><td>GSO-compliance content system for cosmetics products — AI drafts, self-reviews, and outputs bilingual Arabic-English content</td></tr>
+<tr><td>💬</td><td><b>Social Listening Platform</b></td><td>Facebook &amp; Instagram comment sentiment analysis (pricing, delivery issues) with an interactive dashboard</td></tr>
+<tr><td>👁️</td><td><b>Security &amp; Vision Platform</b></td><td>On-prem fire/violence detection, ALPR, driver-ID scanning, attendance &amp; people counting across CPU/GPU</td></tr>
 </table>
 
 ---
 
 ## 🛤️ Career Timeline
 
+```mermaid
+timeline
+    title Career Journey
+    2021 : 🎓 Started B.Sc. Artificial Intelligence — Arab Academy (AASTMT)
+    2023 : 🌱 AI Developer Intern — Elegant Textile Engineering
+    2024 : ⚙️ ML Engineer (Contract) — GuruHub
+         : 🎯 Freelance Data Science Coach — Digital Egypt Pioneers
+         : 📚 Course Instructor — iSchool
+    2025 : 🎓 Graduated B.Sc. Artificial Intelligence — AASTMT
+         : 🚀 AI Engineer — Akhnaton Trading & Distribution (EVA Group)
+    2026 : 💥 Shipping ATR GPT, Vision, Forecasting & Analytics platforms in production
 ```
-2025 ── Present    🚀 AI Engineer                  Akhnaton Trading & Distribution (EVA Group)
-2024 (Apr–Jul)     ⚙️  ML Engineer (Contract)       GuruHub
-2024–25 (Oct–Feb)  🎯 Freelance DS Coach            Digital Egypt Pioneers | Elharefa
-2024–25 (Nov–Jan)  📚 Course Instructor             iSchool
-2023 (Jul–Aug)     🌱 AI Developer Intern           Elegant Textile Engineering
-2021 ── 2025       🎓 B.Sc. Artificial Intelligence  Arab Academy (AASTMT)
-```
+
+<div align="center"><sub>Rendered natively by GitHub — <a href="https://mermaid.js.org">Mermaid</a> timeline diagram</sub></div>
+
 
 ---
 
@@ -89,14 +101,23 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 **🧠 LLMs & Generative AI**
 <br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG%20Pipelines-00D9FF?style=for-the-badge&logo=buffer&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+**⚙️ LLM Engineering & Ops**
+<br/>
+<img src="https://img.shields.io/badge/Fine--Tuning%20(LoRA%2FPEFT)-6E56CF?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Guardrails-6E56CF?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Token%2FCost%20Monitoring-6E56CF?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 **🛠️ Backend & Infrastructure**
 <br/>
@@ -168,10 +189,24 @@ Real-time recognition system for Arabic sign language.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Geo-y20&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2E63" width="90%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Geo-y20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="90%"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Geo-y20&custom_title=George's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=0d1117" width="90%"/>
+
+<br/><sub>💡 If a card above shows "downtime" — public stats mirrors are rate-limited by GitHub and occasionally lag; they self-recover, no action needed.</sub>
+
 </div>
 
 ---
