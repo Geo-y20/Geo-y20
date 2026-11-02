@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="./assets/ai_banner.svg" width="100%">
+<img src="./assets/ai_banner.svg" width="100%" alt=""/>
 
 </div>
 
@@ -59,11 +59,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/👥_Users-900%2B_employees-00F0FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💬_Queries-5%2C000%2B_%2F_month-00F0FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🏢_Departments-20%2B-00F0FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📄_Documents-1%2C000%2B_%2F_month-00F0FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/☎️_Calls-1%2C500%2B_%2F_month-00F0FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Users-900%2B%20employees-00F0FF?style=for-the-badge&logo=microsoftteams&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Queries-5%2C000%2B%20per%20month-00F0FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Departments-20%2B-00F0FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Documents-1%2C000%2B%20per%20month-00F0FF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Calls-1%2C500%2B%20per%20month-00F0FF?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=0d1117"/>
 
 </div>
 <br/>
@@ -214,16 +214,12 @@ Real-time recognition of Arabic sign language gestures from a camera feed.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="38%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Geo-y20&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2E63" width="90%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Geo-y20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="90%"/>
 
 <br/>
 
