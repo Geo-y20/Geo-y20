@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=GEORGE%20YOUHANA%20HEAZIL&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20Agents&descAlignY=52&descSize=19" alt="George Youhana Heazil, AI Engineer"/>
+<img src="./assets/header.svg" width="100%" alt="George Youhana Heazil — AI Engineer building LLM systems, RAG and AI agents"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+Building+Enterprise+LLM+%26+RAG+Systems;%E2%9A%A1+Text-to-SQL+%7C+LangGraph+Agents+%7C+Vision+AI;%F0%9F%9A%80+900%2B+Employees+%7C+5%2C000%2B+Queries+a+Month;%F0%9F%92%A1+From+Idea+to+Production%2C+End+to+End" alt="Building enterprise LLM and RAG systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Enterprise+LLM+%26+RAG+Systems;Text-to-SQL+%C2%B7+LangGraph+Agents+%C2%B7+Vision+AI;From+Idea+to+Production%2C+End+to+End" alt="Enterprise LLM and RAG systems"/>
 
 <p>
 <b>I design, ship and run production AI systems</b> — enterprise RAG assistants, Text-to-SQL, AI agents,<br/>
@@ -12,29 +12,13 @@ document intelligence and computer vision — used daily by <b>900+ employees</b
 <a href="https://www.linkedin.com/in/george-youhana-a5b756155/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://my-portfolio-nine-chi-v2lvpxtgph.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-FF2E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:georgeyouhana2@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Geo-y20&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/>
-
-<img src="./assets/ai_banner.svg" width="100%" alt="Artificial Intelligence Engineer banner"/>
+<img src="https://komarev.com/ghpvc/?username=Geo-y20&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ## 📈 Impact at a Glance
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%"><h2>900+</h2><sub>employees using my AI assistant</sub></td>
-<td align="center" width="20%"><h2>5,000+</h2><sub>LLM queries served / month</sub></td>
-<td align="center" width="20%"><h2>~90%</h2><sub>correct SQL on 100+ test questions</sub></td>
-<td align="center" width="20%"><h2>~95%</h2><sub>OCR field accuracy, 1,000+ docs / month</sub></td>
-<td align="center" width="20%"><h2>~15%</h2><sub>lower forecast wMAPE</sub></td>
-</tr>
-</table>
-
-</div>
+<img src="./assets/impact.svg" width="100%" alt="900+ employees, 5,000+ queries per month, ~90% correct SQL, ~95% OCR field accuracy, 15% lower forecast error"/>
 
 ---
 
@@ -230,12 +214,12 @@ timeline
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Geo-y20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400" width="49%" alt="GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="38%" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Geo-y20&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&border_radius=14&cache_seconds=86400" width="49%" alt="GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geo-y20&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&border_radius=14&cache_seconds=86400" width="38%" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Geo-y20&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2E63" width="90%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=Geo-y20&hide_border=true&border_radius=14&background=0B1220&stroke=1E293B&ring=22D3EE&fire=818CF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" width="88%" alt="GitHub streak"/>
 
 </div>
 
@@ -262,8 +246,6 @@ timeline
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together!" alt="Thanks for stopping by"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" alt=""/>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something great together"/>
 
 </div>

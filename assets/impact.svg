@@ -1,0 +1,54 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact: 900+ employees, 5,000+ queries per month, about 90% correct SQL, about 95% OCR field accuracy, 15% lower forecast error">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .card { fill: #0B1220; stroke: #1E293B; stroke-width: 1; }
+      .num { fill: #F8FAFC; font-size: 40px; font-weight: 700; letter-spacing: -1px; }
+      .lbl { fill: #94A3B8; font-size: 14px; }
+      .c { opacity: 0; animation: in 0.6s ease-out forwards; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <g class="sans" text-anchor="middle">
+    <g class="c" style="animation-delay:0s">
+      <rect class="card" x="12" y="10" width="220" height="130" rx="14"/>
+      <rect x="12" y="10" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+      <text class="num" x="122" y="72">900+</text>
+      <text class="lbl" x="122" y="102">employees use</text>
+      <text class="lbl" x="122" y="121">ATR GPT</text>
+    </g>
+    <g class="c" style="animation-delay:0.12s">
+      <rect class="card" x="251" y="10" width="220" height="130" rx="14"/>
+      <rect x="251" y="10" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+      <text class="num" x="361" y="72">5,000+</text>
+      <text class="lbl" x="361" y="102">LLM queries</text>
+      <text class="lbl" x="361" y="121">served per month</text>
+    </g>
+    <g class="c" style="animation-delay:0.24s">
+      <rect class="card" x="490" y="10" width="220" height="130" rx="14"/>
+      <rect x="490" y="10" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+      <text class="num" x="600" y="72">~90%</text>
+      <text class="lbl" x="600" y="102">correct SQL on</text>
+      <text class="lbl" x="600" y="121">100+ test questions</text>
+    </g>
+    <g class="c" style="animation-delay:0.36s">
+      <rect class="card" x="729" y="10" width="220" height="130" rx="14"/>
+      <rect x="729" y="10" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+      <text class="num" x="839" y="72">~95%</text>
+      <text class="lbl" x="839" y="102">OCR field accuracy</text>
+      <text class="lbl" x="839" y="121">1,000+ docs / month</text>
+    </g>
+    <g class="c" style="animation-delay:0.48s">
+      <rect class="card" x="968" y="10" width="220" height="130" rx="14"/>
+      <rect x="968" y="10" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+      <text class="num" x="1078" y="72">−15%</text>
+      <text class="lbl" x="1078" y="102">forecast error</text>
+      <text class="lbl" x="1078" y="121">(wMAPE)</text>
+    </g>
+  </g>
+</svg>
