@@ -1,0 +1,99 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career journey: 2021 B.Sc. AI at AASTMT; 2023 AI Developer Intern at Elegant Textile Engineering; 2024 Freelance AI Developer on Upwork; 2024 ML Engineer and AI Instructor; May 2025 AI Engineer at Akhnaton Trading, EVA Group; 2026 M.Sc. Data Science in progress">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="420" rx="18"/></clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace; }
+      .card { fill: #0F172A; stroke: #1E293B; stroke-width: 1.2; }
+      .yr { fill: #22D3EE; font-size: 12px; letter-spacing: 1.5px; }
+      .t { fill: #F1F5F9; font-size: 16px; font-weight: 600; }
+      .o { fill: #94A3B8; font-size: 13.5px; }
+      .d { fill: #64748B; font-size: 12px; }
+      .stem { stroke: #334155; stroke-width: 1.2; stroke-dasharray: 3 4; }
+      .dot { fill: #0B1220; stroke: #22D3EE; stroke-width: 2.5; }
+      .track { stroke: url(#accent); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 1100; stroke-dashoffset: 1100; animation: draw 2.2s ease-out forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      .ring { fill: none; stroke: #22D3EE; stroke-width: 2; transform-origin: 894px 210px; animation: ring 2s ease-out infinite; }
+      @keyframes ring { from { opacity: 0.9; transform: scale(1); } to { opacity: 0; transform: scale(2.6); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="#0B1220"/>
+    <rect width="1200" height="420" fill="url(#grid)" opacity="0.4"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="18" fill="none" stroke="#1E293B"/>
+
+  <line x1="60" y1="210" x2="1140" y2="210" stroke="#1E293B" stroke-width="3" stroke-linecap="round"/>
+  <line class="track" x1="60" y1="210" x2="1140" y2="210"/>
+
+  <!-- stems -->
+  <line class="stem" x1="110" y1="170" x2="110" y2="203"/>
+  <line class="stem" x1="306" y1="217" x2="306" y2="250"/>
+  <line class="stem" x1="502" y1="170" x2="502" y2="203"/>
+  <line class="stem" x1="698" y1="217" x2="698" y2="250"/>
+  <line x1="894" y1="170" x2="894" y2="203" stroke="#22D3EE" stroke-width="1.5"/>
+  <line class="stem" x1="1090" y1="217" x2="1090" y2="250"/>
+
+  <!-- nodes -->
+  <circle class="dot" cx="110" cy="210" r="7"/>
+  <circle class="dot" cx="306" cy="210" r="7"/>
+  <circle class="dot" cx="502" cy="210" r="7"/>
+  <circle class="dot" cx="698" cy="210" r="7"/>
+  <circle class="ring" cx="894" cy="210" r="8"/>
+  <circle cx="894" cy="210" r="8" fill="#22D3EE"/>
+  <circle class="dot" cx="1090" cy="210" r="7" stroke="#818CF8"/>
+
+  <g class="sans">
+    <!-- 1: above -->
+    <rect class="card" x="16" y="50" width="300" height="120" rx="12"/>
+    <text class="yr mono" x="36" y="76">2021 — 2025</text>
+    <text class="t" x="36" y="102">B.Sc. Artificial Intelligence</text>
+    <text class="o" x="36" y="124">AASTMT</text>
+    <text class="d mono" x="36" y="148">AI · ML · computer vision · NLP</text>
+
+    <!-- 2: below -->
+    <rect class="card" x="156" y="250" width="300" height="120" rx="12"/>
+    <text class="yr mono" x="176" y="276">2023</text>
+    <text class="t" x="176" y="302">AI Developer Intern</text>
+    <text class="o" x="176" y="324">Elegant Textile Engineering</text>
+    <text class="d mono" x="176" y="348">defect detection · 94% accuracy</text>
+
+    <!-- 3: above -->
+    <rect class="card" x="352" y="50" width="300" height="120" rx="12"/>
+    <text class="yr mono" x="372" y="76">2024</text>
+    <text class="t" x="372" y="102">Freelance AI Developer</text>
+    <text class="o" x="372" y="124">Upwork</text>
+    <text class="d mono" x="372" y="148">10+ projects · 100% Job Success</text>
+
+    <!-- 4: below -->
+    <rect class="card" x="548" y="250" width="300" height="120" rx="12"/>
+    <text class="yr mono" x="568" y="276">2024</text>
+    <text class="t" x="568" y="302">ML Engineer &amp; AI Instructor</text>
+    <text class="o" x="568" y="324">GuruHub · DEPI · Elharefa · iSchool</text>
+    <text class="d mono" x="568" y="348">50+ learners · 8-week cohorts</text>
+
+    <!-- 5: above, current -->
+    <rect x="744" y="50" width="300" height="120" rx="12" fill="#0F1B2D" stroke="#22D3EE" stroke-width="1.5"/>
+    <text class="yr mono" x="764" y="76">MAY 2025 — PRESENT</text>
+    <rect x="958" y="62" width="70" height="20" rx="10" fill="#0E2420" stroke="#14532D"/>
+    <text x="993" y="76" text-anchor="middle" class="mono" font-size="10.5" fill="#86EFAC">CURRENT</text>
+    <text class="t" x="764" y="102">AI Engineer</text>
+    <text class="o" x="764" y="124">Akhnaton Trading · EVA Group</text>
+    <text class="d mono" x="764" y="148">11 AI systems in production</text>
+
+    <!-- 6: below -->
+    <rect class="card" x="884" y="250" width="300" height="120" rx="12"/>
+    <text class="yr mono" x="904" y="276" fill="#818CF8">2026 — NOW</text>
+    <text class="t" x="904" y="302">M.Sc. Data Science</text>
+    <text class="o" x="904" y="324">AASTMT · in progress</text>
+    <text class="d mono" x="904" y="348">studying alongside full-time role</text>
+  </g>
+</svg>

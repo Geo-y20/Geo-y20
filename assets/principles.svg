@@ -1,0 +1,42 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How I build: measure first; production, not demos; private by design; Arabic and English by default">
+  <defs>
+    <style>
+      .sans { font-family: 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace; }
+      .card { fill: #0B1220; stroke: #1E293B; stroke-width: 1; }
+      .n { font-size: 13px; letter-spacing: 1px; }
+      .t { fill: #F8FAFC; font-size: 19px; font-weight: 600; }
+      .b { fill: #94A3B8; font-size: 14px; }
+    </style>
+  </defs>
+
+  <g class="sans">
+    <rect class="card" x="12" y="10" width="282" height="160" rx="14"/>
+    <rect x="12" y="10" width="4" height="160" rx="2" fill="#22D3EE"/>
+    <text class="n mono" x="36" y="44" fill="#22D3EE">01 / EVALUATE</text>
+    <text class="t" x="36" y="80">Measure first</text>
+    <text class="b" x="36" y="112">Test sets before launch: 100+</text>
+    <text class="b" x="36" y="134">questions behind ~90% correct SQL</text>
+
+    <rect class="card" x="310" y="10" width="282" height="160" rx="14"/>
+    <rect x="310" y="10" width="4" height="160" rx="2" fill="#818CF8"/>
+    <text class="n mono" x="334" y="44" fill="#818CF8">02 / SHIP</text>
+    <text class="t" x="334" y="80">Production, not demos</text>
+    <text class="b" x="334" y="112">Guardrails, memory and token/cost</text>
+    <text class="b" x="334" y="134">monitoring on systems people use</text>
+
+    <rect class="card" x="608" y="10" width="282" height="160" rx="14"/>
+    <rect x="608" y="10" width="4" height="160" rx="2" fill="#C084FC"/>
+    <text class="n mono" x="632" y="44" fill="#C084FC">03 / PROTECT</text>
+    <text class="t" x="632" y="80">Private by design</text>
+    <text class="b" x="632" y="112">On-prem LLMs and vision when</text>
+    <text class="b" x="632" y="134">data must never leave the servers</text>
+
+    <rect class="card" x="906" y="10" width="282" height="160" rx="14"/>
+    <rect x="906" y="10" width="4" height="160" rx="2" fill="#34D399"/>
+    <text class="n mono" x="930" y="44" fill="#34D399">04 / LOCALIZE</text>
+    <text class="t" x="930" y="80">Arabic + English</text>
+    <text class="b" x="930" y="112">Bilingual retrieval, OCR and</text>
+    <text class="b" x="930" y="134">generation built in from day one</text>
+  </g>
+</svg>

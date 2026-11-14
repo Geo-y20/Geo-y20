@@ -24,20 +24,9 @@ document intelligence and computer vision — used daily by <b>900+ employees</b
 
 ## ⚡ About Me
 
-```yaml
-name:        George Youhana Heazil
-role:        AI Engineer @ Akhnaton Trading & Distribution (EVA Group)   # May 2025 – Present
-team:        Leading 2 junior engineers and AI interns
-location:    Cairo, Egypt
-focus:       [LLM Systems, RAG, AI Agents, Document AI, Computer Vision, MLOps]
-education:   B.Sc. Artificial Intelligence, AASTMT (2025) | M.Sc. Data Science, AASTMT (in progress)
-languages:   [Arabic (native), English (C1, EF SET)]
-exploring:   [Human-in-the-loop agents, Langfuse / LangSmith, MCP]
-daily_tools: [Claude Code, Codex, VS Code]
-open_to:     Applied AI / LLM Engineer opportunities
-```
+<img src="./assets/about.svg" width="100%" alt="About George: AI Engineer at EVA Group, Cairo. Focus: LLM systems, RAG, AI agents, document AI, vision, MLOps. B.Sc. AI (AASTMT, 2025), M.Sc. Data Science in progress. Arabic native, English C1."/>
 
-I present and explain the AI systems I build to top management, business and technical consultants, and external partners. I care about measurable impact, not demos.
+I build AI systems that people use every day: retrieval-augmented assistants, Text-to-SQL, agents, document intelligence and computer vision. I also present and explain them to top management, business and technical consultants, and external partners.
 
 ---
 
@@ -68,6 +57,12 @@ I present and explain the AI systems I build to top management, business and tec
 </table>
 
 </details>
+
+---
+
+## 🧭 How I Build
+
+<img src="./assets/principles.svg" width="100%" alt="How I build: measure first; production, not demos; private by design; Arabic and English by default"/>
 
 ---
 
@@ -154,20 +149,7 @@ Real-time recognition of Arabic sign language gestures from a camera feed.
 
 ## 🛤️ Career Journey
 
-```mermaid
-timeline
-    title Career Journey
-    2021 : 🎓 Started B.Sc. Artificial Intelligence, AASTMT
-    2023 : 🌱 AI Developer Intern, Elegant Textile Engineering (defect detection, 94% accuracy)
-    2024 : 💼 Freelance AI Developer, Upwork (10+ projects, 100% Job Success)
-         : ⚙️ ML Engineer (Contract), GuruHub
-         : 📚 AI & Data Science Instructor, DEPI · Elharefa · iSchool
-    2025 : 🎓 Graduated B.Sc. Artificial Intelligence, AASTMT
-         : 🚀 AI Engineer, Akhnaton Trading & Distribution (EVA Group)
-         : 💥 ATR GPT, Text-to-SQL, Document AI, Vision & Forecasting shipped to production
-    2026 : 🎓 Started M.Sc. Data Science, AASTMT
-         : 👥 Leading junior engineers & AI interns
-```
+<img src="./assets/journey.svg" width="100%" alt="Career journey: 2021 B.Sc. AI at AASTMT; 2023 AI Developer Intern, Elegant Textile Engineering; 2024 Freelance AI Developer on Upwork and ML Engineer / AI Instructor; May 2025 AI Engineer at Akhnaton Trading (EVA Group); 2026 M.Sc. Data Science in progress"/>
 
 <table width="100%">
 <tr>
