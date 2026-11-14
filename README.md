@@ -35,26 +35,30 @@ I build AI systems that people use every day: retrieval-augmented assistants, Te
 <div align="center"><sub><b>AI Engineer @ Akhnaton Trading & Distribution (EVA Group)</b> · May 2025 – Present</sub></div>
 <br/>
 
-<table width="100%">
-<tr><td width="4%">🗣️</td><td width="26%"><b>ATR GPT</b><br/><sub>Enterprise AI Assistant</sub></td><td>FastAPI RAG on PostgreSQL/pgvector with <b>reranking</b> and <b>conversation memory</b>, used by <b>900+ employees</b> across 20+ departments (<b>5,000+ queries/month</b>) in MS Teams and on the web. Routes between OpenAI &amp; Claude, generates PowerPoint/Word files with AI agents, with guardrails &amp; token/cost monitoring</td></tr>
-<tr><td>🔍</td><td><b>Enterprise Data Querying</b><br/><sub>Text-to-SQL + Sheet Chat</sub></td><td>Natural language → Oracle Autonomous DB across <b>10+ tables</b> in <b>~10 s</b> instead of 1–2 day reports, <b>~90% correct SQL</b> on 100+ test questions; plus a LangGraph agent for spreadsheet Q&amp;A, charts &amp; data-quality checks</td></tr>
-<tr><td>📄</td><td><b>OCR &amp; Doc Intelligence</b></td><td>Cheque validation before ERP ingestion &amp; bilingual product-label extraction (batch, expiry, quantity) via Google Cloud Vision: <b>~95% field accuracy</b> on <b>1,000+ documents/month</b></td></tr>
-<tr><td>🔒</td><td><b>Offline HR Assistant</b><br/><sub>Fully on-prem</sub></td><td>Arabic–English assistant on Aya-Expanse 8B (Ollama) with hybrid <b>ChromaDB + BM25</b> retrieval; no data ever leaves company servers</td></tr>
-<tr><td>📈</td><td><b>Demand Forecasting</b></td><td>Per-brand / customer / channel forecasts with Ridge &amp; LightGBM and per-SKU model selection by wMAPE: <b>~15% lower wMAPE</b></td></tr>
-<tr><td>👁️</td><td><b>Security &amp; Vision Platform</b></td><td>On-prem fire/violence detection, ALPR, driver-ID scanning, attendance &amp; people counting on <b>20+ cameras across 3 sites</b></td></tr>
-</table>
+<p align="center">
+<img src="./assets/shipped/atr-gpt.svg" width="49%" alt="ATR GPT: enterprise RAG assistant used by 900+ employees across 20+ departments, 5,000+ queries per month"/>
+<img src="./assets/shipped/text-to-sql.svg" width="49%" alt="Enterprise Data Querying: Text-to-SQL on Oracle Autonomous DB, ~10 s answers, ~90% correct SQL"/>
+<br/>
+<img src="./assets/shipped/doc-ai.svg" width="49%" alt="OCR and Doc Intelligence: ~95% field accuracy on 1,000+ documents per month"/>
+<img src="./assets/shipped/hr-assistant.svg" width="49%" alt="Offline HR Assistant: Aya-Expanse 8B on Ollama with ChromaDB + BM25, fully on-prem"/>
+<br/>
+<img src="./assets/shipped/forecasting.svg" width="49%" alt="Demand Forecasting: Ridge and LightGBM, ~15% lower wMAPE"/>
+<img src="./assets/shipped/vision.svg" width="49%" alt="Security and Vision Platform: 20+ cameras across 3 sites"/>
+</p>
 
 <details>
-<summary><b>➕ More production systems</b></summary>
+<summary><b>➕ 5 more production systems</b></summary>
 <br/>
 
-<table width="100%">
-<tr><td width="4%">☎️</td><td width="26%"><b>Call Quality Analytics</b></td><td>CRM recordings → Whisper → LLM sentiment scoring of customer &amp; pharmacist calls for QA: <b>1,500+ calls/month</b></td></tr>
-<tr><td>🎙️</td><td><b>Meeting Intelligence</b></td><td>Cross-platform desktop app for real-time Zoom/Teams transcription with Deepgram and bilingual Arabic–English minutes generated with OpenAI</td></tr>
-<tr><td>🛒</td><td><b>Smart Sales Assistant</b></td><td>Catalog-aware sales ordering chatbot with AI-generated product recommendations</td></tr>
-<tr><td>📋</td><td><b>Regulatory Content Platform</b></td><td>GSO-compliant cosmetics content: AI drafts, self-reviews, and outputs bilingual Arabic–English copy</td></tr>
-<tr><td>💬</td><td><b>Social Listening Platform</b></td><td>Arabic social-media comment classification into 7 categories (pricing, delivery issues and more) with an interactive dashboard</td></tr>
-</table>
+<p align="center">
+<img src="./assets/shipped/calls.svg" width="49%" alt="Call Quality Analytics: Whisper + LLM sentiment scoring, 1,500+ calls per month"/>
+<img src="./assets/shipped/meetings.svg" width="49%" alt="Meeting Intelligence: live Zoom/Teams transcription with bilingual minutes"/>
+<br/>
+<img src="./assets/shipped/social.svg" width="49%" alt="Social Listening Platform: Arabic comment classification into 7 categories"/>
+<img src="./assets/shipped/sales.svg" width="49%" alt="Smart Sales Assistant: catalog-aware ordering chatbot"/>
+<br/>
+<img src="./assets/shipped/regulatory.svg" width="49%" alt="Regulatory Content Platform: GSO-compliant bilingual cosmetics content"/>
+</p>
 
 </details>
 

@@ -1,0 +1,15 @@
+<svg width="600" height="250" viewBox="0 0 600 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Regulatory Content Platform: GSO-compliant cosmetics content: the AI drafts, reviews its own output, and delivers bilingual Arabic–English copy.">
+  <defs><clipPath id="c"><rect width="600" height="250" rx="16"/></clipPath>
+    <radialGradient id="g" cx="0" cy="0" r="0.9"><stop offset="0" stop-color="#FBBF24" stop-opacity="0.13"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+    <style>.p{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style></defs>
+  <g clip-path="url(#c)"><rect width="600" height="250" fill="#0B1220"/><rect width="600" height="250" fill="url(#g)"/><rect width="4" height="250" fill="#FBBF24"/></g>
+  <rect x="0.5" y="0.5" width="599" height="249" rx="16" fill="none" stroke="#1E293B"/>
+  <text x="32" y="40" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#FBBF24">GENAI CONTENT</text>
+  <rect x="448" y="24" width="120" height="24" rx="12" fill="#0E2420" stroke="#14532D"/>
+  <circle class="p" cx="464" cy="36" r="4" fill="#22C55E"/>
+  <text x="514" y="40.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="10.5" letter-spacing="1" fill="#86EFAC">IN PRODUCTION</text>
+  <text x="32" y="76" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#F8FAFC">Regulatory Content Platform</text>
+  <text x="32" y="106" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#94A3B8">GSO-compliant cosmetics content: the AI drafts, reviews its own</text><text x="32" y="128" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#94A3B8">output, and delivers bilingual Arabic–English copy.</text>
+  
+  <rect x="32" y="196" width="46" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="55" y="213.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">GSO</text><rect x="86" y="196" width="105" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="138" y="213.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Self-review</text><rect x="199" y="196" width="105" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="252" y="213.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Arabic / EN</text>
+</svg>
