@@ -1,0 +1,16 @@
+<svg width="600" height="250" viewBox="0 0 600 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arabic Text Summarization: Extractive and abstractive summarization of Arabic documents with AraBART. Built for the AIC competition sponsored by MTC Egypt.">
+  <defs><clipPath id="c"><rect width="600" height="250" rx="16"/></clipPath>
+    <radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#C084FC" stop-opacity="0.16"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></radialGradient></defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="250" fill="#0B1220"/>
+    <rect width="600" height="250" fill="url(#g)"/>
+    <rect width="600" height="4" fill="#C084FC"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="249" rx="16" fill="none" stroke="#1E293B"/>
+  <circle cx="38" cy="38" r="5" fill="#C084FC"/>
+  <text x="52" y="42.5" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#C084FC">ARABIC NLP</text>
+  <text x="568" y="42.5" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#475569">Geo-y20 / repo ↗</text>
+  <text x="32" y="80" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#F8FAFC">Arabic Text Summarization</text>
+  <text x="32" y="112" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">Extractive and abstractive summarization of</text><text x="32" y="135" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">Arabic documents with AraBART. Built for the AIC</text><text x="32" y="158" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">competition sponsored by MTC Egypt.</text>
+  <rect x="32" y="194" width="75" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="70" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">AraBART</text><rect x="115" y="194" width="112" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="171" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Transformers</text><rect x="235" y="194" width="98" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="284" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Arabic NLP</text>
+</svg>

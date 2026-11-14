@@ -1,0 +1,16 @@
+<svg width="600" height="250" viewBox="0 0 600 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vision Assist: Assistive vision for visually impaired users: object detection, OCR and face recognition, running on a laptop and on a Raspberry Pi.">
+  <defs><clipPath id="c"><rect width="600" height="250" rx="16"/></clipPath>
+    <radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#818CF8" stop-opacity="0.16"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient></defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="250" fill="#0B1220"/>
+    <rect width="600" height="250" fill="url(#g)"/>
+    <rect width="600" height="4" fill="#818CF8"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="249" rx="16" fill="none" stroke="#1E293B"/>
+  <circle cx="38" cy="38" r="5" fill="#818CF8"/>
+  <text x="52" y="42.5" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#818CF8">COMPUTER VISION · EDGE</text>
+  <text x="568" y="42.5" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#475569">Geo-y20 / repo ↗</text>
+  <text x="32" y="80" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#F8FAFC">Vision Assist</text>
+  <text x="32" y="112" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">Assistive vision for visually impaired users:</text><text x="32" y="135" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">object detection, OCR and face recognition,</text><text x="32" y="158" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94A3B8">running on a laptop and on a Raspberry Pi.</text>
+  <rect x="32" y="194" width="68" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="66" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">YOLOv5</text><rect x="108" y="194" width="46" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="131" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">OCR</text><rect x="162" y="194" width="61" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="192" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Flask</text><rect x="231" y="194" width="112" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/><text x="287" y="211.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#CBD5E1">Raspberry Pi</text>
+</svg>

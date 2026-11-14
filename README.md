@@ -102,46 +102,41 @@ I build AI systems that people use every day: retrieval-augmented assistants, Te
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<sub>Personal and open-source work. My production systems at EVA Group are private and listed above.</sub>
 
-### [🎓 AI-Powered Learning Automation](https://github.com/Geo-y20/Enhanced-Learning-Experience)
-FastAPI platform that turns lectures and documents into study material: Whisper transcription, PDF extraction and NLP summarization. Processed **5,000+** multimedia files.
-<br/><sub>`Python` `FastAPI` `Whisper` `NLP`</sub>
+<p align="center">
+<a href="https://github.com/Geo-y20/Enhanced-Learning-Experience"><img src="./assets/projects/intellilearn.svg" width="49%" alt="IntelliLearn: Whisper + LLM study material from lectures and PDFs"/></a>
+<a href="https://github.com/Geo-y20/Vision-Project"><img src="./assets/projects/vision.svg" width="49%" alt="Vision Assist: object detection, OCR and face recognition for visually impaired users"/></a>
+<br/>
+<a href="https://github.com/Geo-y20/Text-Summarization-in-Arabic"><img src="./assets/projects/arabic-summ.svg" width="49%" alt="Arabic Text Summarization with AraBART"/></a>
+<a href="https://github.com/Geo-y20/AI-Farmer-Assistant"><img src="./assets/projects/farmer.svg" width="49%" alt="AI Farmer Assistant: wheat disease detection and chatbot"/></a>
+<br/>
+<a href="https://github.com/Geo-y20/Fashion-Recommendation-System"><img src="./assets/projects/fashion.svg" width="49%" alt="Fashion Recommender: VGG16 image similarity search"/></a>
+<a href="https://github.com/Geo-y20/yolov8-holding-detector"><img src="./assets/projects/holding.svg" width="49%" alt="YOLOv8 Holding Detector: Flask web app"/></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>📂 More projects: data science, ML &amp; analytics</b></summary>
 
-### [👁️ Vision Project](https://github.com/Geo-y20/Vision-Project)
-Real-time computer vision system for object and event detection on live video streams.
-<br/><sub>`Python` `YOLO` `OpenCV`</sub>
+| Project | What it does | Stack |
+|---|---|---|
+| [Telco Customer Churn](https://github.com/Geo-y20/Telco-Customer-Churn-) ⭐ 16 | Predicts telecom churn and recommends ways to reduce attrition | ML, EDA |
+| [Uber Rides Analysis](https://github.com/Geo-y20/Uber-Rides-Data-Analysis) ⭐ 12 | Ride patterns by category, purpose, month, day and hour | pandas, visualization |
+| [Standard OCR](https://github.com/Geo-y20/Standard-OCR-) | Character recognition comparing ResNet, Xception, Inception and MobileNet | Deep learning, CV |
+| [Paper Title Generation](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart) | Generates research-paper titles from abstracts | BART, Transformers |
+| [Airline Reviews Prediction](https://github.com/Geo-y20/Airlines-Reviews-Prediction-Project) | Predicts review ratings from customer feedback text | NLP |
+| [Fraud Detection](https://github.com/Geo-y20/Fraud-Detection) | Flags fraudulent credit-card transactions | ML classification |
+| [Object Detection + TTS](https://github.com/Geo-y20/Object-detection-and-text-to-speech) | YOLOv5 detection with SpeechT5 text-to-speech | YOLOv5, SpeechT5 |
+| [Arabic Sign Language](https://github.com/Geo-y20/Arabic_Sign_language) | Arabic sign-language recognition to help deaf and hearing people communicate | Computer vision |
+| [RoboCup Junior](https://github.com/Geo-y20/RoboCup-Junior) | Line-follower robot for the RoboCup Junior competition | Robotics |
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📝 Arabic Text Summarization](https://github.com/Geo-y20/Text-Summarization-in-Arabic)
-Summarization pipeline built for Arabic, handling the language's morphology and right-to-left text.
-<br/><sub>`Python` `NLP` `Arabic NLP`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [🤟 Arabic Sign Language Recognition](https://github.com/Geo-y20/Arabic_Sign_language)
-Real-time recognition of Arabic sign language gestures from a camera feed.
-<br/><sub>`Python` `TensorFlow` `Computer Vision`</sub>
-
-</td>
-</tr>
-</table>
+</details>
 
 <div align="center">
 <a href="https://github.com/Geo-y20?tab=repositories">
-  <img src="https://img.shields.io/badge/→%20VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+  <img src="https://img.shields.io/badge/→%20VIEW%20ALL%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
 </a>
 </div>
 
